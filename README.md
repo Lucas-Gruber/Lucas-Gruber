@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/Blizii"><img src="https://api.daily.dev/devcards/090123aa16cb4d9eb45d1f1cc91c3c7e.png?r=rh3" width="400" alt="Thomas-Blakeney's Dev Card"/></a>
 
 <!--
 **Thomas-Blakeney/Thomas-Blakeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
