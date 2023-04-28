@@ -5,7 +5,7 @@
 # 💫About Me :
 - 🔭 I’m currently working on a new Website Project
 - 🌱 I’m currently learning NextJS/React
-- 📫 How to reach me: Email: blakeneyt@ariscorp.de
+- 📫 How to reach me: Email: gurberl@hobbytes.dev
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: -->
